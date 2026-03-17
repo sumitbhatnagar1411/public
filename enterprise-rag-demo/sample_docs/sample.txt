@@ -1,0 +1,12 @@
+Enterprise RAG — Sample Document
+
+This is a sample document for the Enterprise RAG Demo. It illustrates how document ingestion, chunking, and vector search work together.
+
+Key concepts:
+- Documents are loaded from PDF, TXT, or Markdown files.
+- Text is split into overlapping chunks to preserve context across boundaries.
+- Each chunk is embedded using OpenAI's embedding model and stored in a vector index (FAISS).
+- At query time, the user's question is embedded and the nearest chunks are retrieved.
+- An LLM (e.g. GPT-4) generates an answer using only the retrieved context, with source attribution.
+
+For production in financial services, consider OpenSearch as the vector store and ensure all data remains within your compliance boundary.

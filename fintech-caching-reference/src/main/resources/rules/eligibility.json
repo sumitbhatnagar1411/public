@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rule-1",
+    "name": "Premium tier bonus",
+    "conditions": [
+      { "field": "segment", "op": "eq", "value": "premium" },
+      { "field": "volume", "op": "gte", "value": 1000 }
+    ],
+    "action": { "type": "bonus", "rate": 0.05, "description": "Premium volume bonus" }
+  },
+  {
+    "id": "rule-2",
+    "name": "Standard tier cap",
+    "conditions": [
+      { "field": "segment", "op": "eq", "value": "standard" }
+    ],
+    "action": { "type": "cap", "maxPayout": 5000 }
+  },
+  {
+    "id": "rule-3",
+    "name": "Region EU adjustment",
+    "conditions": [
+      { "field": "region", "op": "eq", "value": "EU" }
+    ],
+    "action": { "type": "adjustment", "factor": 1.1, "description": "EU regional factor" }
+  }
+]

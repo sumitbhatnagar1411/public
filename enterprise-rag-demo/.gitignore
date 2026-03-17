@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+*.faiss
+chunks.json
+.DS_Store
+.idea/
+*.log
