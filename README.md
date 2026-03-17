@@ -2,8 +2,6 @@
 
 AI & LLM Applications | Knowledge Graphs · Agentic AI · FinTech
 
-This folder contains **5 complete reference projects** suitable for uploading to GitHub to showcase enterprise AI, microservices, and FinTech architecture expertise.
-
 ---
 
 ## 1. [enterprise-rag-demo](./enterprise-rag-demo)
