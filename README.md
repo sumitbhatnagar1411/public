@@ -51,19 +51,7 @@ This folder contains **5 complete reference projects** suitable for uploading to
 
 ---
 
-## How to use these on GitHub
 
-1. Create **5 new repositories** on your GitHub (e.g. `enterprise-rag-demo`, `microservices-platform-reference`, etc.).
-2. In each project folder, run:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: reference implementation"
-   git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
-   git push -u origin main
-   ```
-3. Add a short **About** description and **Topics** on each repo (e.g. `rag`, `opensearch`, `microservices`, `kafka`, `kubernetes`, `agentic-ai`, `knowledge-graph`, `fintech`, `caching`).
-4. Pin 2–3 of these repos on your GitHub profile for maximum visibility.
 
 ---
 
