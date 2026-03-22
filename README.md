@@ -29,34 +29,44 @@
 ## 💻 Tech Stack
 
 ### Programming Languages
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin-right:10px;" />
+</p>
 
 ---
 
 ### Backend & Frameworks
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
-![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" style="margin-right:10px;" />
+</p>
 
 ---
 
 ### AI / Data / Search
-![OpenSearch](https://www.vectorlogo.zone/logos/opensearch/opensearch-icon.svg)
-![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/opensearch/opensearch-icon.svg" width="40" style="margin-right:10px;" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" style="margin-right:10px;" />
+</p>
 
 ---
 
 ### Databases
-![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
-![Elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" style="margin-right:10px;" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" style="margin-right:10px;" />
+</p>
 
 ---
 
-### Cloud & DevOps
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" style="margin-right:10px;" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" style="margin-right:10px;" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" style="margin-right:10px;" />
+</p>
 
 ---
 
@@ -77,4 +87,4 @@
 
 ---
 
-⭐️ *Always open to discussing AI, system design, and building scalable platforms*
+⭐️ *Always open to discussions on AI, system design, and building scalable platforms*
