@@ -1,56 +1,80 @@
-# GitHub Portfolio — Sumit Bhatnagar
+# 👋 Hi there, I'm Sumit Bhatnagar
 
-AI & LLM Applications | Knowledge Graphs · Agentic AI · FinTech
-
----
-
-## 1. [enterprise-rag-demo](./enterprise-rag-demo)
-
-**Reference architecture for enterprise RAG pipelines** — document ingestion, embeddings (OpenAI), vector search (FAISS), and LLM response generation with a simple Streamlit UI. Designed to swap to OpenSearch for production.
-
-- **Tech:** Python, OpenAI API, FAISS, Streamlit  
-- **Best for:** Demonstrating RAG and vector search experience .
+### VP, Enterprise Architect | AI & Platform Engineering Leader | Author
 
 ---
 
-## 2. [microservices-platform-reference](./microservices-platform-reference)
+## 🚀 About Me
 
-**Enterprise microservices reference** — Spring Boot services, Spring Cloud Gateway, Apache Kafka, Kubernetes manifests, and observability (Prometheus/Grafana).
-
-- **Tech:** Java 17, Spring Boot 3, Spring Cloud Gateway, Kafka, Docker, K8s  
-- **Best for:** Showing microservices and platform architecture (aligns with *Art of Decoding Microservices* and K8s modernization).
-
----
-
-## 3. [agentic-ai-workflows](./agentic-ai-workflows)
-
-**Multi-agent orchestration demo** — planner (task decomposition), retriever (context), and reasoner (chain-of-thought) with CLI and FastAPI.
-
-- **Tech:** Python, OpenAI, FastAPI  
-- **Best for:** Demonstrating agentic AI and reasoning chains.
+- 🔭 Currently building **enterprise AI platforms** (LLM, RAG, Agentic AI)
+- 🏗 Architecting **cloud-native, distributed systems** serving millions of users
+- 🌱 Continuously exploring **AI, system design, and scalable architectures**
+- 💬 Ask me about **System Design, Microservices, Kafka, AI/LLMs**
+- 📘 Author of *Art of Decoding Microservices* (Apress - Springer Nature)
+- 🎤 Speaker at **AI DevSummit 2025**
+- 🧠 IEEE Senior Member | Contributor to AI policy discussions
 
 ---
 
-## 4. [knowledge-graph-entity-demo](./knowledge-graph-entity-demo)
+## 🧠 Areas of Expertise
 
-**Entity relationship and graph analytics** — TigerGraph-style model with typed entities (Customer, Account, Product), relationships (OWNS, REFERRED_BY), path finding, and k-hop queries. REST API with NetworkX; concepts map to TigerGraph/Neo4j.
-
-- **Tech:** Python, NetworkX, FastAPI  
-- **Best for:** Showing knowledge graph and entity-relationship modeling.
-
----
-
-## 5. [fintech-caching-reference](./fintech-caching-reference)
-
-**Caching and reconfigurable rule engine** — Caffeine cache for sub-millisecond profile lookup and JSON-driven rule engine (eligibility/commission-style logic) with reload without code deploy.
-
-- **Tech:** Java 17, Spring Boot, Caffeine, JSON rules  
-- **Best for:** Demonstrating FinTech patterns (GemFire-style caching and configurable business rules).
+- AI Systems (LLMs, RAG, Vector Search, Knowledge Graphs)
+- Distributed Systems & Microservices
+- Event-Driven Architecture (Kafka)
+- Cloud-Native Platforms (AWS, Kubernetes)
+- High-Scale Enterprise Systems (10M+ users)
 
 ---
 
+## 💻 Tech Stack
 
+### Programming Languages
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 
 ---
 
-**Contact:** [LinkedIn](https://linkedin.com/in/sumitbhatnagar1411) | sumit.bhatnagar@outlook.com
+### Backend & Frameworks
+![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+
+---
+
+### AI / Data / Search
+![OpenSearch](https://www.vectorlogo.zone/logos/opensearch/opensearch-icon.svg)
+![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)
+
+---
+
+### Databases
+![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
+![Elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg)
+
+---
+
+### Cloud & DevOps
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+
+---
+
+## 📊 Impact
+
+- 🚀 Built systems serving **67M+ users**
+- 💰 Delivered **$1M+ annual cost savings**
+- ⚡ Designed **low-latency, high-scale distributed systems**
+- 🤖 Built enterprise AI platforms (RAG, LLM apps, knowledge graphs)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/sumitbhatnagar1411  
+- 🌐 Website: https://sumitbhatnagar.com  
+- 📫 Email: sumit.bhatnagar@outlook.com  
+
+---
+
+⭐️ *Always open to discussing AI, system design, and building scalable platforms*
